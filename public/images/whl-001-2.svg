@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="18 inch graphite alloy wheel, angled view">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#20303a"/>
+      <stop offset="100%" stop-color="#0d1218"/>
+    </linearGradient>
+    <radialGradient id="metal2" cx="40%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#eef2f6"/>
+      <stop offset="50%" stop-color="#a7afba"/>
+      <stop offset="100%" stop-color="#565f6b"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#bg2)"/>
+  <ellipse cx="400" cy="520" rx="300" ry="34" fill="#000" opacity="0.35"/>
+
+  <!-- tyre sidewall (perspective ellipse) -->
+  <ellipse cx="400" cy="300" rx="250" ry="168" fill="#161a1f"/>
+  <ellipse cx="400" cy="300" rx="250" ry="168" fill="none" stroke="#000" stroke-width="6"/>
+  <ellipse cx="400" cy="300" rx="212" ry="142" fill="#0e1116"/>
+
+  <!-- rim face -->
+  <ellipse cx="400" cy="300" rx="202" ry="135" fill="url(#metal2)"/>
+  <ellipse cx="400" cy="300" rx="172" ry="115" fill="#20262e"/>
+
+  <!-- spokes (foreshortened) -->
+  <g stroke="url(#metal2)" stroke-width="22" stroke-linecap="round">
+    <line x1="400" y1="300" x2="400" y2="168"/>
+    <line x1="400" y1="300" x2="520" y2="210"/>
+    <line x1="400" y1="300" x2="572" y2="300"/>
+    <line x1="400" y1="300" x2="520" y2="390"/>
+    <line x1="400" y1="300" x2="400" y2="432"/>
+    <line x1="400" y1="300" x2="280" y2="390"/>
+    <line x1="400" y1="300" x2="228" y2="300"/>
+    <line x1="400" y1="300" x2="280" y2="210"/>
+  </g>
+
+  <!-- hub -->
+  <ellipse cx="400" cy="300" rx="46" ry="40" fill="#cfd6de" stroke="#2a2f37" stroke-width="4"/>
+  <ellipse cx="400" cy="300" rx="20" ry="17" fill="#c4161c"/>
+
+  <text x="40" y="560" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ebef">18&#34; Alloy — Graphite</text>
+  <text x="760" y="560" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9aa1ac">Angled view</text>
+</svg>

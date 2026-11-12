@@ -1,0 +1,379 @@
+[
+  {
+    "id": "eng-001",
+    "name": "CAN AM OUTLANDER RENEGADE 1000 16-23 XT XXC XMR EFI DPS XTP ENGINE MOTOR REBUILT",
+    "category": "Engines",
+    "brand": "Outlander 1000 16-23 powerplant",
+    "price": 2499.99,
+    "oldPrice": 2899.99,
+    "stock": 6,
+    "rating": 4.8,
+    "sku": "FRC-ENG-2TDI",
+    "featured": true,
+      "images": [
+      "/images/cam1.jpeg",
+      "/images/cam2.jpeg",
+      "/images/cam3.jpeg",
+      "/images/cam4.jpeg"
+    ],
+    "shortDescription": "Freshly rebuilt Can-Am Outlander 1000 16-23 powerplant- also fits Renegade 1000 16-23.",
+    "description": "Powersportsnation is now paying 1200£ for your core. If it has a hole in it, if it has been disassembled or is locked up you will get 50% of this core value. We provide a return label to bring back the core free of charge to you. Please call for the return label.\n\nPowerSportsNation Rebuilt Engines.\n\nOur process:\n\n-Engines are completely disassembled. Cases are hot tanked or pressure washed.\n\n-All rebuilt engines include new piston(s) and rings, new gaskets and seals, new timing chain (where applicable), water pump seal kit (if water pump is part of assembly), new oil filter, and new spark plug(s).\n\n-Heads are refreshed or rebuilt (on a Rottler Head Machine SG7MTS) with the valves adjusted. All heads are checked for trueness and surfaced or planed if necessary. All valves, guides and seats are checked and replaced if needed.\n\n-Cylinders are always overbored to the next size or sent off and replated.\n\n-Crankshafts are inspected. If they are not in excellent or near new condition, they are rebuilt or replaced. If automotive style crank and rods are used in the application, all bearings are replaced. Crankshaft roller bearings are replaced where needed.\n\n-Transmissions (where applicable). All parts are visibly inspected or measured for wear. All bearings, shift forks and gears are replaced where needed. Any other worn internals will be replaced where needed.\n\n-Oil pumps are a crucial component in the build. They are all torn down and inspected. If they don’t appear to be near new, they will be rebuilt or replaced.\n\n-Assembly begins after all parts are inspected and the replacement parts are on hand. Each engine is hand built with quality workmanship to insure the longevity of your powerplant. All bolts are torqued to appropriate specs for each engine type.\n\n-The final step in the process here at PSN is to test run your engine. Because of the vast inventory of used parts from our salvage operation we have been able to build test cradles or test rollers. We run 9 out of 10 engines that leave our facility. And are continuing to build towards 100% testing. This helps us catch any issues before they make it to the customer.\n\n-Our warranty, in the event that you have an issue. All Sport quads (Ex: YFZ450 or scrambler) or sport side by sides (Ex: RZR) engines carry a 90-day warranty. All Utility ATV and UTV engines carry a 180-day warranty. The first 90 days of warranty covers parts or exchange and labor (max labor coverage-1700£, if installed by a professional shop in the industry). The second 90 days covers parts or exchange only. (Excludes sport quads and sport side by sides)\n\nPart Number: PSN0101-420101364.",
+    "specs": {
+      "Fuel": "Petrol",
+      "Displacement": "1968 cc",
+      "Cylinders": "4 inline",
+      "Power": "148 bhp",
+      "Condition": "Reconditioned",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "eng-002",
+    "name": "CAN AM OUTLANDER 650 06-09 ENGINE MOTOR REBUILT - 6 MONTH WARRANTY",
+    "category": "Engines",
+    "brand": "OUTLANDER 650 06-09 powerplant",
+    "price": 1799.0,
+    "oldPrice": null,
+    "stock": 4,
+    "rating": 4.6,
+    "sku": "FRC-ENG-16P",
+    "featured": true,
+    "images": [
+      "/images/two1.jpeg",
+      "/images/two2.jpeg",
+      "/images/two3.jpeg",
+      "/images/two4.jpeg"
+    ],
+    "shortDescription": "Freshly rebuilt Can-Am Outlander 650 powerplant- also fits Renegade 650.",
+    "description": "The Can-Am Outlander 650 (2006–2009) Rebuilt Engine Motor is a replacement engine suitable for compatible Can-Am Outlander 650 ATV models.\n- Professionally rebuilt to restore engine performance and reliability.\n- Ideal for replacing a worn, damaged or faulty original engine.\n- Designed for compatible 650cc Can-Am Outlander models from 2006–2009.\n- A cost-effective alternative to purchasing a brand-new engine.",
+    "specs": {
+      "Fuel": "Petrol",
+      "Displacement": "580 cc",
+      "Cylinders": "2 inline",
+      "Power": "50 bhp",
+      "Condition": "Used - Tested",
+      "Warranty": "6 months"
+    }
+  },
+  {
+    "id": "eng-003",
+    "name": "HONDA RINCON 650 03-05 ENGINE MOTOR REBUILT - 6 MONTH WARRANTY",
+    "category": "Engines",
+    "brand": "HONDA RINCON 650 03-05 powerplant",
+    "price": 3899.5,
+    "oldPrice": 4250.0,
+    "stock": 2,
+    "rating": 4.9,
+    "sku": "FRC-ENG-30V6",
+    "featured": false,
+    "images": [
+      "/images/three1.jpeg",
+      "/images/three2.jpeg",
+      "/images/three3.jpeg",
+      "/images/three4.jpeg"
+    ],
+    "shortDescription": "HONDA RINCON 650 03-05 ENGINE MOTOR REBUILT - 6 MONTH WARRANTY.",
+    "description": "The Honda Rincon 650 (2003–2005) Rebuilt Engine Motor is a replacement engine designed for compatible Honda Rincon ATV models.\n- Professionally rebuilt to restore engine performance and reliability.\n- Ideal for replacing a worn, damaged or faulty original engine.\n- Designed for Honda Rincon 650 models manufactured between 2003 and 2005.\n- Supplied with a 6-month warranty for added peace of mind.\nPlease confirm model compatibility and warranty conditions before purchase.",
+    "specs": {
+      "Fuel": "Petrol",
+      "Displacement": "650 cc",
+      "Cylinders": "2 inline",
+      "Power": "55 bhp",
+      "Condition": "Reconditioned",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "prt-001",
+    "name": "POLARIS RZR XP TURBO 16 ENGINE MOTOR REBUILT - 3 MONTH WARRANTY",
+    "category": "Engine Parts",
+    "brand": "POLARIS RZR XP TURBO 16 powerplant",
+    "price": 429.99,
+    "oldPrice": 499.99,
+    "stock": 15,
+    "rating": 4.7,
+    "sku": "FRC-PRT-TURBO",
+    "featured": true,
+    "images": [
+      "/images/four1.jpeg",
+      "/images/four2.jpeg",
+      "/images/four3.jpeg",
+      "/images/four4.jpeg"
+    ],
+    "shortDescription": "POLARIS RZR XP TURBO 16 ENGINE MOTOR REBUILT - 3 MONTH WARRANTY.",
+    "description": "The Polaris RZR XP Turbo 2016 Rebuilt Engine Motor is a replacement engine designed for compatible 2016 Polaris RZR XP Turbo models.\n- Professionally rebuilt to restore engine performance and reliability.\n- Ideal for replacing a worn, damaged or faulty original engine.\n- Designed for dependable performance and long-lasting operation.\n- A cost-effective alternative to purchasing a brand-new engine.\nPlease confirm compatibility and included components before purchase.",
+    "specs": {
+      "Type": "Variable geometry",
+      "Fitment": "Direct replacement",
+      "Includes": "Gasket kit",
+      "Condition": "New",
+      "Warranty": "24 months"
+    }
+  },
+  {
+    "id": "prt-002",
+    "name": "POLARIS SPORTSMAN 600 03-05 ENGINE MOTOR REBUILT - 6 MONTH WARRANTY",
+    "category": "Engine Parts",
+    "brand": "POLARIS SPORTSMAN 600 03-05 powerplant",
+    "price": 289.0,
+    "oldPrice": null,
+    "stock": 22,
+    "rating": 4.5,
+    "sku": "FRC-PRT-PIST4",
+    "featured": false,
+    "images": [
+      "/images/five1.jpeg",
+      "/images/five2.jpeg",
+      "/images/five3.jpeg",
+      "/images/five4.jpeg"
+    ],
+    "shortDescription": "POLARIS SPORTSMAN 600 03-05 ENGINE MOTOR REBUILT",
+    "description": "The Polaris Sportsman 600 (2003–2005) Rebuilt Engine Motor is a replacement engine designed for compatible Polaris Sportsman 600 ATV models.\n- Professionally rebuilt to restore engine performance and reliability.\n- Ideal for replacing a worn, damaged or faulty original engine.\n- Designed for Polaris Sportsman 600 models from 2003 to 2005.\n- Offers a cost-effective alternative to purchasing a brand-new engine.\nPlease confirm model compatibility and included components before purchase.",
+    "specs": {
+      "Quantity": "4 pistons",
+      "Material": "Forged aluminium",
+      "Includes": "Rings & pins",
+      "Condition": "New",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "prt-003",
+    "name": "POLARIS RANGER 570 16-18 REBUILT TRANSMISSION 1333469",
+    "category": "Engine Parts",
+    "brand": "POLARIS RANGER 570 16-18 powerplant",
+    "price": 118.5,
+    "oldPrice": 139.99,
+    "stock": 40,
+    "rating": 4.8,
+    "sku": "FRC-PRT-TBWP",
+    "featured": true,
+    "shortDescription": "POLARIS RANGER 570 16-18 REBUILT TRANSMISSION 1333469.",
+    "description": "The Polaris Ranger 570 (2016–2018) Rebuilt Transmission – Part Number 1333469 is a replacement transmission designed for compatible Polaris Ranger 570 models.\n- Professionally rebuilt to restore smooth and reliable transmission performance.\n- Ideal for replacing a worn, damaged or faulty original transmission.\n- Manufactured to meet the fitment requirements of compatible Polaris Ranger models.\n- A cost-effective alternative to purchasing a brand-new transmission.\nPlease confirm vehicle compatibility, included components and warranty details before purchase.",
+    "specs": {
+      "Includes": "Belt, pump, pulleys",
+      "Fitment": "OE specification",
+      "Condition": "New",
+      "Warranty": "24 months"
+    }
+  },
+  {
+    "id": "prt-004",
+    "name": "POLARIS RANGER 900 16 CREW REBUILT TRANSMISSION 1333464",
+    "category": "Engine Parts",
+    "brand": "POLARIS RANGER 900 16 CREW powerplant",
+    "price": 74.99,
+    "oldPrice": null,
+    "stock": 35,
+    "rating": 4.6,
+    "sku": "FRC-PRT-HGSET",
+    "featured": false,
+    "shortDescription": "POLARIS RANGER 900 16 CREW REBUILT TRANSMISSION 1333464.",
+    "description": "The Polaris Ranger 900 Crew (2016) Rebuilt Transmission – Part Number 1333464 is a replacement transmission designed for compatible Polaris Ranger 900 Crew models.\n- Professionally rebuilt to restore smooth and reliable transmission performance.\n- Ideal for replacing a worn, damaged or faulty original transmission.\n- Designed to meet the fitment requirements of compatible 2016 Polaris Ranger 900 Crew vehicles.\n- A cost-effective alternative to purchasing a brand-new transmission.\nPlease confirm vehicle compatibility, included components and warranty details before purchase.",
+    "specs": {
+      "Type": "Multi-layer steel",
+      "Includes": "Full seal set",
+      "Condition": "New",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "prt-005",
+    "name": "Mercedes-Benz GL 500 oil pump assembly",
+    "category": "Engine Parts",
+    "brand": "Mercedes-Benz GL 500",
+    "price": 96.4,
+    "oldPrice": null,
+    "stock": 18,
+    "rating": 4.4,
+    "sku": "FRC-PRT-OILP",
+    "featured": false,
+    "images": [
+      "/images/pumb1.png",
+      "/images/pumb2.png"
+      
+    ],
+    "shortDescription": "Mercedes-Benz GL 500 oil pump assembly.",
+    "description": "The Mercedes-Benz GL 500 Oil Pump Assembly is a replacement component designed for compatible Mercedes-Benz GL 500 models.\n- Professionally manufactured to restore proper oil circulation and engine lubrication.\n- Ideal for replacing a worn, damaged or faulty original oil pump assembly.\n- Designed to meet the fitment requirements of compatible Mercedes-Benz GL 500 vehicles.\n- A cost-effective alternative to purchasing a brand-new oil pump assembly.\nPlease confirm vehicle compatibility and included components before purchase.",
+    "specs": {
+      "Type": "High-flow",
+      "Fitment": "Direct replacement",
+      "Condition": "New",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "whl-001",
+    "name": "18\" Alloy Wheel Set (4) — Graphite",
+    "category": "Alloy Wheels",
+    "brand": "OZ Racing",
+    "price": 849.99,
+    "oldPrice": 999.99,
+    "stock": 10,
+    "rating": 4.9,
+    "sku": "FRC-WHL-18GRA",
+    "featured": true,
+    "images": [
+      "/images/whl-001-1.svg",
+      "/images/whl-001-2.svg",
+      "/images/whl-001-3.svg"
+    ],
+    "shortDescription": "Set of four 18-inch graphite alloy wheels.",
+    "description": "A striking set of four 18-inch cast alloy wheels finished in graphite grey. Lightweight design reduces unsprung mass for sharper handling. Supplied with centre caps and fitting kit.",
+    "specs": {
+      "Diameter": "18 inch",
+      "Width": "8J",
+      "PCD": "5x112",
+      "Finish": "Graphite grey",
+      "Quantity": "4 wheels",
+      "Condition": "New"
+    }
+  },
+  {
+    "id": "whl-002",
+    "name": "19\" Alloy Wheel Set (4) — Diamond Cut",
+    "category": "Alloy Wheels",
+    "brand": "BBS",
+    "price": 1199.0,
+    "oldPrice": null,
+    "stock": 5,
+    "rating": 5.0,
+    "sku": "FRC-WHL-19DC",
+    "featured": true,
+    "shortDescription": "Premium 19-inch diamond-cut alloy wheels.",
+    "description": "Premium set of four 19-inch diamond-cut alloy wheels with a mirror-polished face and contrasting painted pockets. The ultimate upgrade for a sporting saloon or coupe.",
+    "specs": {
+      "Diameter": "19 inch",
+      "Width": "8.5J",
+      "PCD": "5x120",
+      "Finish": "Diamond cut",
+      "Quantity": "4 wheels",
+      "Condition": "New"
+    }
+  },
+  {
+    "id": "whl-003",
+    "name": "17\" Alloy Wheel Set (4) — Gloss Black",
+    "category": "Alloy Wheels",
+    "brand": "Team Dynamics",
+    "price": 579.99,
+    "oldPrice": 649.99,
+    "stock": 14,
+    "rating": 4.7,
+    "sku": "FRC-WHL-17BLK",
+    "featured": false,
+    "shortDescription": "Classic multi-spoke 17-inch gloss black alloys.",
+    "description": "Timeless multi-spoke design in a hard-wearing gloss black finish. A versatile 17-inch fitment that suits a wide range of hatchbacks and saloons. Centre caps included.",
+    "specs": {
+      "Diameter": "17 inch",
+      "Width": "7.5J",
+      "PCD": "5x100",
+      "Finish": "Gloss black",
+      "Quantity": "4 wheels",
+      "Condition": "New"
+    }
+  },
+  {
+    "id": "car-001",
+    "name": "Front Brake Disc & Pad Kit",
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "price": 134.95,
+    "oldPrice": 159.95,
+    "stock": 28,
+    "rating": 4.8,
+    "sku": "FRC-CAR-BRK",
+    "featured": true,
+    "shortDescription": "Vented front brake discs with ceramic pads.",
+    "description": "A matched pair of vented front brake discs supplied with low-dust ceramic brake pads. Engineered for strong, fade-free stopping power and quiet operation.",
+    "specs": {
+      "Includes": "2 discs + pad set",
+      "Type": "Vented",
+      "Position": "Front axle",
+      "Condition": "New",
+      "Warranty": "24 months"
+    }
+  },
+  {
+    "id": "car-002",
+    "name": "Full Service Filter Kit",
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "price": 44.99,
+    "oldPrice": null,
+    "stock": 50,
+    "rating": 4.6,
+    "sku": "FRC-CAR-FILT",
+    "featured": false,
+    "shortDescription": "Oil, air, fuel and cabin filter service kit.",
+    "description": "A complete four-filter service kit containing oil, air, fuel and cabin pollen filters. Everything required for a routine service in a single convenient pack.",
+    "specs": {
+      "Includes": "4 filters",
+      "Fitment": "OE specification",
+      "Condition": "New",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "car-003",
+    "name": "Heavy-Duty Clutch Kit",
+    "category": "Car Parts",
+    "brand": "LuK",
+    "price": 219.0,
+    "oldPrice": 259.0,
+    "stock": 12,
+    "rating": 4.7,
+    "sku": "FRC-CAR-CLU",
+    "featured": false,
+    "shortDescription": "Three-piece clutch kit with release bearing.",
+    "description": "A three-piece heavy-duty clutch kit comprising clutch plate, pressure plate and release bearing. Uprated friction material handles higher torque for confident engagement.",
+    "specs": {
+      "Includes": "Plate, cover, bearing",
+      "Type": "Heavy duty",
+      "Condition": "New",
+      "Warranty": "24 months"
+    }
+  },
+  {
+    "id": "car-004",
+    "name": "LED Headlight Upgrade Pair",
+    "category": "Car Parts",
+    "brand": "Philips",
+    "price": 89.99,
+    "oldPrice": null,
+    "stock": 33,
+    "rating": 4.5,
+    "sku": "FRC-CAR-LED",
+    "featured": false,
+    "shortDescription": "Plug-and-play LED headlight conversion pair.",
+    "description": "Upgrade to crisp, bright LED lighting with this plug-and-play pair. Up to 200% more light than standard halogen bulbs for safer night-time driving.",
+    "specs": {
+      "Quantity": "2 bulbs",
+      "Colour": "6000K white",
+      "Fitment": "Plug and play",
+      "Condition": "New",
+      "Warranty": "12 months"
+    }
+  },
+  {
+    "id": "car-005",
+    "name": "Performance Exhaust System",
+    "category": "Car Parts",
+    "brand": "Milltek",
+    "price": 649.0,
+    "oldPrice": 729.0,
+    "stock": 7,
+    "rating": 4.9,
+    "sku": "FRC-CAR-EXH",
+    "featured": true,
+    "shortDescription": "Stainless cat-back performance exhaust system.",
+    "description": "A mandrel-bent stainless steel cat-back exhaust system that frees up power and delivers a deeper, sportier note. Supplied with all clamps, hangers and fitting hardware.",
+    "specs": {
+      "Material": "Stainless steel",
+      "Type": "Cat-back",
+      "Includes": "Fitting hardware",
+      "Condition": "New",
+      "Warranty": "Lifetime (corrosion)"
+    }
+  }
+]

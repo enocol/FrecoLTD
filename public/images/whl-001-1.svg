@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="18 inch graphite alloy wheel, front view">
+  <defs>
+    <radialGradient id="bg1" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#2b3340"/>
+      <stop offset="100%" stop-color="#11151c"/>
+    </radialGradient>
+    <radialGradient id="metal1" cx="40%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#e9edf2"/>
+      <stop offset="45%" stop-color="#aab2bd"/>
+      <stop offset="100%" stop-color="#5b6470"/>
+    </radialGradient>
+    <radialGradient id="hub1" cx="42%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#cfd6de"/>
+      <stop offset="100%" stop-color="#3a4049"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#bg1)"/>
+
+  <!-- tyre -->
+  <circle cx="400" cy="300" r="250" fill="#161a1f"/>
+  <circle cx="400" cy="300" r="250" fill="none" stroke="#000" stroke-width="6"/>
+  <circle cx="400" cy="300" r="214" fill="#0e1116"/>
+
+  <!-- rim face -->
+  <circle cx="400" cy="300" r="205" fill="url(#metal1)"/>
+  <circle cx="400" cy="300" r="176" fill="#20262e"/>
+
+  <!-- spokes -->
+  <g fill="url(#metal1)">
+    <g>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(0 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(36 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(72 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(108 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(144 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(180 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(216 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(252 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(288 400 300)"/>
+      <rect x="388" y="110" width="24" height="150" rx="10" transform="rotate(324 400 300)"/>
+    </g>
+  </g>
+
+  <!-- hub -->
+  <circle cx="400" cy="300" r="62" fill="url(#hub1)" stroke="#2a2f37" stroke-width="4"/>
+  <g fill="#1b1f25">
+    <circle cx="400" cy="246" r="9"/>
+    <circle cx="451" cy="283" r="9"/>
+    <circle cx="432" cy="343" r="9"/>
+    <circle cx="368" cy="343" r="9"/>
+    <circle cx="349" cy="283" r="9"/>
+  </g>
+  <circle cx="400" cy="300" r="26" fill="#c4161c"/>
+  <text x="400" y="306" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">FRECO</text>
+
+  <!-- caption -->
+  <text x="40" y="560" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ebef">18&#34; Alloy — Graphite</text>
+  <text x="760" y="560" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9aa1ac">Front view</text>
+</svg>

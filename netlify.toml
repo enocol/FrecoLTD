@@ -1,0 +1,22 @@
+# Netlify deployment configuration for Freco Limited (Vite + React SPA)
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Vite 5 requires Node 18+; pin a current LTS for reproducible builds.
+  NODE_VERSION = "20"
+
+# Single-page-app fallback: serve index.html for any route so client-side
+# routing (React Router) works on deep links and page refreshes.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Long-cache the fingerprinted build assets (filenames change on each build).
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
