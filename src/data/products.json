@@ -148,6 +148,11 @@
     "rating": 4.8,
     "sku": "FRC-PRT-TBWP",
     "featured": true,
+    "images": [
+      "/images/polaris_570_1.png",
+      "/images/polaris_570_2.png"
+    ],
+  
     "shortDescription": "POLARIS RANGER 570 16-18 REBUILT TRANSMISSION 1333469.",
     "description": "The Polaris Ranger 570 (2016–2018) Rebuilt Transmission – Part Number 1333469 is a replacement transmission designed for compatible Polaris Ranger 570 models.\n- Professionally rebuilt to restore smooth and reliable transmission performance.\n- Ideal for replacing a worn, damaged or faulty original transmission.\n- Manufactured to meet the fitment requirements of compatible Polaris Ranger models.\n- A cost-effective alternative to purchasing a brand-new transmission.\nPlease confirm vehicle compatibility, included components and warranty details before purchase.",
     "specs": {
@@ -168,6 +173,11 @@
     "rating": 4.6,
     "sku": "FRC-PRT-HGSET",
     "featured": false,
+      "images": [
+    "/images/polaris_gear1.png",
+    "/images/polaris_gear2.png"
+  ],
+  
     "shortDescription": "POLARIS RANGER 900 16 CREW REBUILT TRANSMISSION 1333464.",
     "description": "The Polaris Ranger 900 Crew (2016) Rebuilt Transmission – Part Number 1333464 is a replacement transmission designed for compatible Polaris Ranger 900 Crew models.\n- Professionally rebuilt to restore smooth and reliable transmission performance.\n- Ideal for replacing a worn, damaged or faulty original transmission.\n- Designed to meet the fitment requirements of compatible 2016 Polaris Ranger 900 Crew vehicles.\n- A cost-effective alternative to purchasing a brand-new transmission.\nPlease confirm vehicle compatibility, included components and warranty details before purchase.",
     "specs": {
@@ -214,9 +224,10 @@
     "sku": "FRC-WHL-18GRA",
     "featured": true,
     "images": [
-      "/images/whl-001-1.svg",
-      "/images/whl-001-2.svg",
-      "/images/whl-001-3.svg"
+      "/images/wheel_18_1.png",
+      "/images/wheel_18_2.png",
+      "/images/wheel_18_3.png",
+      "/images/wheel_18_4.png"
     ],
     "shortDescription": "Set of four 18-inch graphite alloy wheels.",
     "description": "A striking set of four 18-inch cast alloy wheels finished in graphite grey. Lightweight design reduces unsprung mass for sharper handling. Supplied with centre caps and fitting kit.",
@@ -240,6 +251,7 @@
     "rating": 5.0,
     "sku": "FRC-WHL-19DC",
     "featured": true,
+    "image": "/images/alloy_19.png",
     "shortDescription": "Premium 19-inch diamond-cut alloy wheels.",
     "description": "Premium set of four 19-inch diamond-cut alloy wheels with a mirror-polished face and contrasting painted pockets. The ultimate upgrade for a sporting saloon or coupe.",
     "specs": {
@@ -262,6 +274,7 @@
     "rating": 4.7,
     "sku": "FRC-WHL-17BLK",
     "featured": false,
+    "image": "/images/alloy_17.png",
     "shortDescription": "Classic multi-spoke 17-inch gloss black alloys.",
     "description": "Timeless multi-spoke design in a hard-wearing gloss black finish. A versatile 17-inch fitment that suits a wide range of hatchbacks and saloons. Centre caps included.",
     "specs": {
@@ -375,6 +388,10 @@
     "rating": 4.9,
     "sku": "FRC-CAR-EXH",
     "featured": true,
+    "images": [
+      "/images/p_exh_1.png",
+      "/images/p_exh_2.png"
+    ],
     "shortDescription": "Stainless cat-back performance exhaust system.",
     "description": "A mandrel-bent stainless steel cat-back exhaust system that frees up power and delivers a deeper, sportier note. Supplied with all clamps, hangers and fitting hardware.",
     "specs": {

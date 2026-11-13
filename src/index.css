@@ -1584,6 +1584,75 @@ select.input {
 }
 
 /* =================================================================
+   Contact page
+   ================================================================= */
+
+.contact-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 22px;
+  align-items: start;
+}
+
+/* A <textarea> using the shared .input style needs room to breathe. */
+textarea.input {
+  min-height: 140px;
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.contact-success {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.contact-success .confirmation__badge {
+  margin: 0 0 4px;
+  width: 52px;
+  height: 52px;
+  font-size: 1.6rem;
+}
+
+.contact-aside .contact-info__item {
+  margin-bottom: 14px;
+}
+
+.contact-info__item:last-child {
+  margin-bottom: 0;
+}
+
+.contact-info__label {
+  display: block;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.contact-info__value {
+  color: var(--ink-2);
+  line-height: 1.5;
+}
+
+.contact-info__value a {
+  font-weight: 600;
+}
+
+.contact-info__value a:hover {
+  color: var(--red);
+}
+
+@media (min-width: 768px) {
+  .contact-layout {
+    grid-template-columns: minmax(0, 1fr) 320px;
+  }
+}
+
+/* =================================================================
    Toasts (add-to-basket confirmations)
    ================================================================= */
 
