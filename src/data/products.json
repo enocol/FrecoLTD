@@ -401,5 +401,37 @@
       "Condition": "New",
       "Warranty": "Lifetime (corrosion)"
     }
+  },
+
+{
+  "id": "car-006",
+  "name": "Range Rover Sport 2016 Petrol Automatic Gearbox",
+  "category": "Car Parts",
+  "brand": "Land Rover",
+  "price": 1299.00,
+  "oldPrice": 1499.00,
+  "stock": 1,
+  "rating": 0,
+  "sku": "FRC-CAR-GBX-006",
+  "featured": true,
+  "images": [
+    "/images/range_1.png",
+    "/images/range_2.png"
+  ],
+  "shortDescription": "Replacement automatic gearbox for compatible 2016 Range Rover Sport petrol models.",
+  "description": "Automatic transmission gearbox intended for compatible 2016 Range Rover Sport petrol vehicles. Ideal for replacing a faulty, damaged or worn transmission. Designed to restore smooth gear changes and dependable driving performance. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+  "specs": {
+    "Manufacturer": "Land Rover",
+    "Vehicle": "Range Rover Sport",
+    "Model Year": "2016",
+    "Fuel Type": "Petrol",
+    "Transmission": "Automatic",
+    "Gearbox Type": "8-speed automatic (verify variant)",
+    "Condition": "Used - verify condition",
+    "OEM Part Number": "To be confirmed",
+    "Compatibility": "Subject to VIN and gearbox code verification",
+    "Warranty": "To be confirmed"
   }
+}
+
 ]

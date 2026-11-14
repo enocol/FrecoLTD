@@ -259,10 +259,10 @@ button {
   color: var(--red);
 }
 
+/* Inline links are hidden by default (mobile/tablet) and shown on desktop. */
 .navbar__links {
-  display: flex;
+  display: none;
   gap: 4px;
-  margin-left: auto;
 }
 
 .navlink {
@@ -277,6 +277,104 @@ button {
 }
 
 .navlink.active {
+  color: var(--red);
+}
+
+/* Right-hand cluster: basket, then the hamburger toggle. */
+.navbar__actions {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navbar__toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  flex: 0 0 auto;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--ink);
+}
+
+.navbar__toggle:hover {
+  border-color: var(--ink-2);
+}
+
+.hamburger {
+  position: relative;
+  display: inline-block;
+  width: 22px;
+  height: 16px;
+}
+
+.hamburger span {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  border-radius: 2px;
+  background: currentColor;
+  transition: transform 0.2s ease, opacity 0.2s ease, top 0.2s ease;
+}
+
+.hamburger span:nth-child(1) {
+  top: 0;
+}
+.hamburger span:nth-child(2) {
+  top: 7px;
+}
+.hamburger span:nth-child(3) {
+  top: 14px;
+}
+
+.hamburger.is-open span:nth-child(1) {
+  top: 7px;
+  transform: rotate(45deg);
+}
+.hamburger.is-open span:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.is-open span:nth-child(3) {
+  top: 7px;
+  transform: rotate(-45deg);
+}
+
+/* Collapsible mobile/tablet menu panel. */
+.navbar__mobile {
+  overflow: hidden;
+  max-height: 0;
+  background: var(--surface);
+  transition: max-height 0.25s ease;
+}
+
+.navbar__mobile.is-open {
+  max-height: 320px;
+  border-top: 1px solid var(--line);
+}
+
+.navbar__mobile-list {
+  display: flex;
+  flex-direction: column;
+  padding-block: 4px;
+}
+
+.navbar__mobile-link {
+  padding: 14px 4px;
+  font-weight: 600;
+  color: var(--ink-2);
+  border-bottom: 1px solid var(--line);
+}
+
+.navbar__mobile-link:last-child {
+  border-bottom: none;
+}
+
+.navbar__mobile-link.active {
   color: var(--red);
 }
 
@@ -1513,6 +1611,17 @@ select.input {
 @media (min-width: 1024px) {
   .product-grid {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+
+  /* Desktop: inline links, no hamburger. */
+  .navbar__links {
+    display: flex;
+  }
+  .navbar__toggle {
+    display: none;
+  }
+  .navbar__mobile {
+    display: none;
   }
 }
 
