@@ -119,3 +119,4 @@ process payments through a PCI-compliant gateway (e.g. **Stripe**, **PayPal**, o
 **Worldpay**), which handles the card data on their servers and returns a token to your
 backend. The next step for this project would be to add a small backend that creates a
 payment intent with such a provider.
+++++end++++
