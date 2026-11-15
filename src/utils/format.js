@@ -19,7 +19,7 @@ export const BUSINESS = {
   registeredOffice: "63 Junction Street, Dudley, DY2 8XT",
   // Not VAT-registered — no VAT number and no VAT charged on prices.
   email: "support@frecolimited.co.uk",
-  phone: "07519 999500",
+  phone: "+44(0)7519 999500",
   phoneHref: "tel:+447519999500",
   returnsWindowDays: 14, // statutory distance-selling cancellation window
 };
@@ -51,4 +51,3 @@ export function deliveryFor(subtotal) {
   if (subtotal <= 0) return 0;
   return subtotal >= FREE_DELIVERY_THRESHOLD ? 0 : DELIVERY_FEE;
 }
-
