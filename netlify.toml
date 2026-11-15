@@ -8,6 +8,12 @@
   # Vite 5 requires Node 18+; pin a current LTS for reproducible builds.
   NODE_VERSION = "20"
 
+# Serverless functions (Stripe Checkout). Served at /.netlify/functions/<name>.
+# Requires the STRIPE_SECRET_KEY environment variable set in the Netlify UI.
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 # Single-page-app fallback: serve index.html for any route so client-side
 # routing (React Router) works on deep links and page refreshes.
 [[redirects]]

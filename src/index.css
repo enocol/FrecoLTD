@@ -1224,6 +1224,42 @@ select.input {
   margin: 12px 0 0;
 }
 
+.checkout__banner {
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin-bottom: 18px;
+  font-size: 0.92rem;
+  border: 1px solid transparent;
+}
+.checkout__banner--info {
+  background: #eef5ff;
+  border-color: #cfe0ff;
+  color: #1f4e8a;
+}
+.checkout__banner--error {
+  background: #fdecec;
+  border-color: #f6c7c7;
+  color: #9e1016;
+}
+
+.fulfilment__hint {
+  margin: 12px 0 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.checkout__paynote p {
+  color: var(--ink-2);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.pay-brands {
+  margin-top: 10px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+}
+
 .summary--checkout {
   position: static;
 }
