@@ -8,6 +8,12 @@ node_modules
 dist
 dist-ssr
 
+# Local env & Netlify CLI (never commit real keys)
+.env
+.env.*
+!.env.example
+.netlify
+
 # Editor / OS
 .vscode/*
 !.vscode/extensions.json
