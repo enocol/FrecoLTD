@@ -79,9 +79,7 @@ export default function Privacy() {
       <h2>Cookies &amp; local storage</h2>
       <p>
         We use essential browser storage to remember your basket and keep the
-        site working. We don’t use advertising cookies.{' '}
-        <em>[If you later add analytics or marketing cookies, add a cookie
-        banner and list them here.]</em>
+        site working. We don’t use advertising cookies.
       </p>
 
       <h2>How long we keep it</h2>

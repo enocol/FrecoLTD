@@ -38,17 +38,17 @@ export default function Delivery() {
           <strong>Heavy &amp; palletised items</strong> (complete engines,
           gearboxes and some wheel sets) may require kerbside pallet delivery.
           Where this applies, any difference in cost will be confirmed with you
-          before we charge or dispatch — <em>[confirm your pallet rates here]</em>.
+          before we charge or dispatch.
         </li>
       </ul>
 
       <h2>Dispatch &amp; delivery times</h2>
       <p>
         Orders are typically dispatched within{' '}
-        <strong>[1–2] working days</strong> of payment clearing. Estimated
-        delivery is <strong>[2–5] working days</strong> for standard items and{' '}
-        <strong>[3–7] working days</strong> for palletised items, Monday to
-        Friday excluding bank holidays. These are estimates, not guarantees;
+        <strong>1–2 working days</strong> of payment clearing. Estimated delivery
+        is <strong>2–5 working days</strong> for standard items and{' '}
+        <strong>3–7 working days</strong> for palletised items, Monday to Friday
+        excluding bank holidays. These are estimates, not guarantees;
         we’ll let you know if a part is delayed or awaiting stock verification.
       </p>
 
@@ -64,7 +64,7 @@ export default function Delivery() {
         Large mechanical parts are heavy — please have help available to receive
         them. <strong>Inspect your order on arrival.</strong> If packaging is
         visibly damaged, note it with the driver where possible and{' '}
-        <strong>report any damage or shortage within [48 hours]</strong> of
+        <strong>report any damage or shortage within 48 hours</strong> of
         delivery by contacting us, with photos if you can. This helps us resolve
         transit claims quickly.
       </p>

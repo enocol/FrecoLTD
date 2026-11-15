@@ -13,6 +13,7 @@ import Terms from './pages/Terms.jsx'
 import TradeTerms from './pages/TradeTerms.jsx'
 import Privacy from './pages/Privacy.jsx'
 import Returns from './pages/Returns.jsx'
+import Warranty from './pages/Warranty.jsx'
 import Delivery from './pages/Delivery.jsx'
 import NotFound from './pages/NotFound.jsx'
 
@@ -42,6 +43,7 @@ export default function App() {
           <Route path="/trade-terms" element={<TradeTerms />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/returns" element={<Returns />} />
+          <Route path="/warranty" element={<Warranty />} />
           <Route path="/delivery" element={<Delivery />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

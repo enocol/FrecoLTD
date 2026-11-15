@@ -105,10 +105,12 @@ export default function Returns() {
 
       <h2>Warranty</h2>
       <p>
-        Any parts warranty we offer is described at the point of sale and in our{' '}
-        <a href="/terms">Terms &amp; Conditions</a>. Warranty claims require proof
-        of purchase and, for mechanical parts, evidence of correct professional
-        fitting. <em>[State your warranty length and conditions here.]</em>
+        We offer a limited parts warranty that varies by product — for example
+        30 days on used engines and gearboxes, and 6 months on rebuilt or
+        reconditioned units. Full periods, conditions and exclusions are set out
+        in our <a href="/warranty">Warranty Policy</a>. Claims require proof of
+        purchase and, for mechanical parts, evidence of correct professional
+        fitting.
       </p>
 
       <h2>Trade &amp; business customers</h2>

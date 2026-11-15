@@ -160,7 +160,8 @@ export default function TradeTerms() {
       </p>
       <p>
         Any warranty is in addition to rights and remedies that cannot lawfully
-        be excluded.
+        be excluded. See our <a href="/warranty">Warranty Policy</a> for standard
+        warranty periods and conditions.
       </p>
 
       <h2>8. Engine and gearbox installation</h2>

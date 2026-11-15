@@ -43,6 +43,7 @@ export default function Footer() {
             <h4>Help</h4>
             <Link to="/delivery">Shipping &amp; delivery</Link>
             <Link to="/returns">Returns &amp; refunds</Link>
+            <Link to="/warranty">Warranty</Link>
             <Link to="/contact">Contact us</Link>
           </div>
           <div>

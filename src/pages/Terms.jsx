@@ -91,7 +91,8 @@ export default function Terms() {
         warranty we provide is stated at the point of sale and is conditional on
         correct professional fitting and use; it does not cover wear and tear,
         misuse, incorrect fitting, or damage caused by a pre-existing vehicle
-        fault. <em>[State your warranty terms and duration here.]</em>
+        fault. See our <a href="/warranty">Warranty Policy</a> for the warranty
+        periods, conditions and exclusions that apply.
       </p>
 
       <h2>10. Our liability</h2>
