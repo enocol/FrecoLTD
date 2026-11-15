@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Freco Limited">
+  <defs>
+    <radialGradient id="discF" cx="42%" cy="34%" r="78%">
+      <stop offset="0%" stop-color="#3a414e"/>
+      <stop offset="55%" stop-color="#20252e"/>
+      <stop offset="100%" stop-color="#0c0f14"/>
+    </radialGradient>
+    <linearGradient id="spokeF" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4f6f9"/>
+      <stop offset="48%" stop-color="#c7cdd6"/>
+      <stop offset="100%" stop-color="#848c98"/>
+    </linearGradient>
+    <linearGradient id="hubF" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c4161c"/>
+      <stop offset="100%" stop-color="#9e1016"/>
+    </linearGradient>
+    <linearGradient id="ringF" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef1f5"/>
+      <stop offset="100%" stop-color="#9aa2ad"/>
+    </linearGradient></defs>
+  <rect width="120" height="120" rx="26" fill="#0c0f14"/>
+  <g transform="scale(0.9) translate(6.7,6.7)">
+    <circle cx="60" cy="60" r="57" fill="url(#ringF)"/>
+    <circle cx="60" cy="60" r="53.5" fill="#0c0f14"/>
+    <g><polygon points="53.54,7.4 55.68,1.16 64.32,1.16 66.46,7.4" fill="url(#ringF)"/><polygon points="80.71,11.21 85.68,6.88 93.16,11.2 91.9,17.67" fill="url(#ringF)"/><polygon points="102.33,28.1 108.8,26.84 113.12,34.32 108.79,39.29" fill="url(#ringF)"/><polygon points="112.6,53.54 118.84,55.68 118.84,64.32 112.6,66.46" fill="url(#ringF)"/><polygon points="108.79,80.71 113.12,85.68 108.8,93.16 102.33,91.9" fill="url(#ringF)"/><polygon points="91.9,102.33 93.16,108.8 85.68,113.12 80.71,108.79" fill="url(#ringF)"/><polygon points="66.46,112.6 64.32,118.84 55.68,118.84 53.54,112.6" fill="url(#ringF)"/><polygon points="39.29,108.79 34.32,113.12 26.84,108.8 28.1,102.33" fill="url(#ringF)"/><polygon points="17.67,91.9 11.2,93.16 6.88,85.68 11.21,80.71" fill="url(#ringF)"/><polygon points="7.4,66.46 1.16,64.32 1.16,55.68 7.4,53.54" fill="url(#ringF)"/><polygon points="11.21,39.29 6.88,34.32 11.2,26.84 17.67,28.1" fill="url(#ringF)"/><polygon points="28.1,17.67 26.84,11.2 34.32,6.88 39.29,11.21" fill="url(#ringF)"/></g>
+    <circle cx="60" cy="60" r="52" fill="url(#discF)" stroke="#070a0e" stroke-width="1"/>
+    <circle cx="60" cy="60" r="49" fill="none" stroke="#000" stroke-opacity="0.25" stroke-width="2"/>
+    <g><path d="M55.8 38.4 L43.93 15.83 A47 47 0 0 1 76.07 15.83 L64.2 38.4 A22 22 0 0 0 55.8 38.4 Z" fill="url(#spokeF)" stroke="#6b7480" stroke-width="0.6"/><path d="M79.24 49.33 L97.04 31.06 A47 47 0 0 1 106.97 61.64 L81.84 57.32 A22 22 0 0 0 79.24 49.33 Z" fill="url(#spokeF)" stroke="#6b7480" stroke-width="0.6"/><path d="M76.09 75 L98.96 86.28 A47 47 0 0 1 72.95 105.18 L69.3 79.94 A22 22 0 0 0 76.09 75 Z" fill="url(#spokeF)" stroke="#6b7480" stroke-width="0.6"/><path d="M50.7 79.94 L47.05 105.18 A47 47 0 0 1 21.04 86.28 L43.91 75 A22 22 0 0 0 50.7 79.94 Z" fill="url(#spokeF)" stroke="#6b7480" stroke-width="0.6"/><path d="M38.16 57.32 L13.03 61.64 A47 47 0 0 1 22.96 31.06 L40.76 49.33 A22 22 0 0 0 38.16 57.32 Z" fill="url(#spokeF)" stroke="#6b7480" stroke-width="0.6"/></g>
+    <circle cx="60" cy="60" r="24" fill="#0c0f14"/>
+    <circle cx="60" cy="60" r="21" fill="url(#hubF)" stroke="#7a0d12" stroke-width="1"/>
+    <circle cx="60" cy="60" r="21" fill="none" stroke="#fff" stroke-opacity="0.18" stroke-width="1.4"/>
+    
+    <g fill="#fff">
+      <rect x="54.5" y="50" width="4.6" height="21" rx="1"/>
+      <rect x="54.5" y="50" width="13" height="4.3" rx="1"/>
+      <rect x="54.5" y="58.6" width="10" height="4.1" rx="1"/>
+    </g></g>
+</svg>

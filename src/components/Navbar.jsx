@@ -27,7 +27,14 @@ export default function Navbar() {
           aria-label="Freco Limited home"
           onClick={() => setOpen(false)}
         >
-          <span className="brand__mark" aria-hidden="true">⚙</span>
+          <img
+            className="brand__mark"
+            src="/brand/freco-emblem.svg"
+            alt=""
+            aria-hidden="true"
+            width="38"
+            height="38"
+          />
           <span className="brand__text">
             Freco<span className="brand__accent">Limited</span>
           </span>

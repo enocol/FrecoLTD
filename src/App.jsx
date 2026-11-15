@@ -9,6 +9,11 @@ import Cart from './pages/Cart.jsx'
 import Checkout from './pages/Checkout.jsx'
 import OrderConfirmation from './pages/OrderConfirmation.jsx'
 import Contact from './pages/Contact.jsx'
+import Terms from './pages/Terms.jsx'
+import TradeTerms from './pages/TradeTerms.jsx'
+import Privacy from './pages/Privacy.jsx'
+import Returns from './pages/Returns.jsx'
+import Delivery from './pages/Delivery.jsx'
 import NotFound from './pages/NotFound.jsx'
 
 function ScrollToTop() {
@@ -33,6 +38,11 @@ export default function App() {
           <Route path="/checkout" element={<Checkout />} />
           <Route path="/order-confirmation" element={<OrderConfirmation />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/terms" element={<Terms />} />
+          <Route path="/trade-terms" element={<TradeTerms />} />
+          <Route path="/privacy" element={<Privacy />} />
+          <Route path="/returns" element={<Returns />} />
+          <Route path="/delivery" element={<Delivery />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

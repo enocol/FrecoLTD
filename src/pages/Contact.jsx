@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useToast } from '../context/ToastContext.jsx'
-import { COLLECTION_POINT } from '../utils/format.js'
+import { COLLECTION_POINT, BUSINESS } from '../utils/format.js'
 
 const REASONS = ['Enquiry', 'Complaint', 'Feedback', 'Other']
 
@@ -78,9 +78,13 @@ export default function Contact() {
             </div>
             <h2 className="summary__title">Thanks, {sent.name}!</h2>
             <p>
-              We’ve received your {sent.reason.toLowerCase()} and sent a copy to{' '}
-              <strong>{sent.email}</strong>. Our team usually replies within one
-              business day.
+              Thanks for getting in touch about your{' '}
+              {sent.reason.toLowerCase()}. So it reaches us right away, please
+              email it to{' '}
+              <a href={`mailto:${BUSINESS.email}`}>{BUSINESS.email}</a> quoting
+              the reference below, or call{' '}
+              <a href={BUSINESS.phoneHref}>{BUSINESS.phone}</a>. We usually reply
+              within one business day.
             </p>
             <p className="receipt__hours">
               Your reference: <strong>{sent.reference}</strong>
@@ -170,7 +174,10 @@ export default function Contact() {
               Send message
             </button>
             <p className="checkout__demo">
-              Demo store — messages aren’t actually delivered anywhere.
+              This form isn’t connected to email yet — for a guaranteed reply,
+              contact us directly at{' '}
+              <a href={`mailto:${BUSINESS.email}`}>{BUSINESS.email}</a> or{' '}
+              <a href={BUSINESS.phoneHref}>{BUSINESS.phone}</a>.
             </p>
           </form>
         )}
@@ -181,16 +188,14 @@ export default function Contact() {
           <div className="contact-info__item">
             <span className="contact-info__label">Phone</span>
             <span className="contact-info__value">
-              <a href="tel:+441214960000">07519999500</a>
+              <a href={BUSINESS.phoneHref}>{BUSINESS.phone}</a>
             </span>
           </div>
 
           <div className="contact-info__item">
             <span className="contact-info__label">Email</span>
             <span className="contact-info__value">
-              <a href="mailto:support@frecolimited.co.uk">
-                support@frecolimited.co.uk
-              </a>
+              <a href={`mailto:${BUSINESS.email}`}>{BUSINESS.email}</a>
             </span>
           </div>
 

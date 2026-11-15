@@ -245,14 +245,10 @@ button {
 }
 
 .brand__mark {
-  display: grid;
-  place-items: center;
-  width: 34px;
-  height: 34px;
-  border-radius: 9px;
-  background: var(--red);
-  color: #fff;
-  font-size: 1.1rem;
+  display: block;
+  flex: none;
+  width: 38px;
+  height: 38px;
 }
 
 .brand__accent {
@@ -1501,8 +1497,20 @@ select.input {
 
 .footer__cols {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 20px 28px;
+}
+
+.footer__contact {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+.footer__contact a {
+  color: #c7ccd6;
+}
+.footer__contact a:hover {
+  color: #fff;
 }
 
 .footer__cols h4 {
@@ -1527,6 +1535,77 @@ select.input {
   padding-block: 16px;
   font-size: 0.82rem;
   color: #7f8696;
+}
+
+.footer__legal {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.footer__muted {
+  color: #6b7280;
+}
+
+/* ---- Legal / policy pages ------------------------------------------ */
+.legal__updated {
+  margin-top: -6px;
+  margin-bottom: 18px;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+.legal {
+  max-width: 760px;
+  line-height: 1.7;
+  color: var(--ink-2);
+}
+.legal h2 {
+  font-size: 1.15rem;
+  color: var(--ink);
+  margin: 28px 0 8px;
+}
+.legal h2:first-child {
+  margin-top: 0;
+}
+.legal p {
+  margin: 0 0 14px;
+}
+.legal ul,
+.legal ol {
+  margin: 0 0 16px;
+  padding-left: 22px;
+}
+.legal li {
+  margin-bottom: 7px;
+}
+.legal a {
+  color: var(--red);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.legal strong {
+  color: var(--ink);
+}
+.legal em {
+  color: var(--muted);
+  font-style: italic;
+}
+.legal__muted {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.legal__addr {
+  padding: 14px 16px;
+  background: var(--surface-2);
+  border-radius: 10px;
+  line-height: 1.6;
+}
+.legal__foot {
+  margin-top: 22px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.legal__foot a {
+  color: var(--red);
 }
 
 /* =================================================================
@@ -1571,7 +1650,7 @@ select.input {
   }
 
   .footer__inner {
-    grid-template-columns: 1.4fr 1fr;
+    grid-template-columns: 1.1fr 1.9fr;
   }
 }
 

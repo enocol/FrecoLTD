@@ -79,7 +79,6 @@ export default function ProductDetail() {
             {onSale && (
               <span className="price__old">{formatPrice(product.oldPrice)}</span>
             )}
-            <span className="price__vat">inc. VAT</span>
           </div>
 
           <p className="detail__desc">{product.description}</p>

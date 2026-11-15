@@ -1,12 +1,7 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useCart } from '../context/CartContext.jsx'
-import {
-  formatPrice,
-  deliveryFor,
-  vatPortion,
-  COLLECTION_POINT,
-} from '../utils/format.js'
+import { formatPrice, deliveryFor, COLLECTION_POINT } from '../utils/format.js'
 
 // ---- card helpers -------------------------------------------------
 
@@ -168,7 +163,6 @@ export default function Checkout() {
       subtotal,
       delivery,
       total,
-      vat: vatPortion(total),
       cardBrand: brand || 'Card',
       cardLast4: form.cardNumber.replace(/\s+/g, '').slice(-4),
       email: form.email,
@@ -402,22 +396,9 @@ export default function Checkout() {
             </div>
 
             <p className="checkout__demo">
-              Demo store — do not enter real card details. Try test card{' '}
-              <button
-                type="button"
-                className="btn btn--text"
-                onClick={() =>
-                  setForm((f) => ({
-                    ...f,
-                    cardName: f.cardName || 'A Customer',
-                    cardNumber: '4242 4242 4242 4242',
-                    expiry: '12/30',
-                    cvv: '123',
-                  }))
-                }
-              >
-                4242 4242 4242 4242
-              </button>
+              Online card payment isn’t live yet — please don’t enter real card
+              details. To order now, <Link to="/contact">contact us</Link> or
+              choose collection. Secure Stripe card payments are coming soon.
             </p>
           </fieldset>
         </div>
@@ -449,7 +430,6 @@ export default function Checkout() {
             <span>Total</span>
             <span>{formatPrice(total)}</span>
           </div>
-          <p className="summary__vatline">Includes {formatPrice(vatPortion(total))} VAT</p>
 
           <button
             type="submit"
@@ -459,7 +439,7 @@ export default function Checkout() {
             {processing ? 'Processing…' : `Pay ${formatPrice(total)}`}
           </button>
           <p className="summary__secure">
-            🔒 Your payment is encrypted and secure.
+            🔒 Card payments will be processed securely by Stripe.
           </p>
         </aside>
       </form>

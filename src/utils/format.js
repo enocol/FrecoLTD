@@ -1,5 +1,29 @@
 // Shared formatting / pricing helpers.
 
+// Trading currency. Shown explicitly (not just the symbol) so customers and
+// Stripe can see exactly what they're being charged in.
+export const CURRENCY = { code: "GBP", symbol: "£" };
+
+// ---------------------------------------------------------------------------
+// Business / legal identity — EDIT THESE before going live.
+// UK limited companies must show the registered name, company number, place of
+// registration and registered office on their website. Replace every value in
+// [square brackets] with your real details. These feed the footer, the policy
+// pages and the contact page, so you only change them here.
+// ---------------------------------------------------------------------------
+export const BUSINESS = {
+  legalName: "Freco Limited",
+  tradingName: "Freco Limited",
+  companyNumber: "13699598", // Companies House registration number
+  placeOfRegistration: "England & Wales",
+  registeredOffice: "63 Junction Street, Dudley, DY2 8XT",
+  // Not VAT-registered — no VAT number and no VAT charged on prices.
+  email: "support@frecolimited.co.uk",
+  phone: "07519 999500",
+  phoneHref: "tel:+447519999500",
+  returnsWindowDays: 14, // statutory distance-selling cancellation window
+};
+
 const gbp = new Intl.NumberFormat("en-GB", {
   style: "currency",
   currency: "GBP",
@@ -28,9 +52,3 @@ export function deliveryFor(subtotal) {
   return subtotal >= FREE_DELIVERY_THRESHOLD ? 0 : DELIVERY_FEE;
 }
 
-export const VAT_RATE = 0.2;
-
-// Catalogue prices already include VAT; this is the VAT portion for the receipt.
-export function vatPortion(amount) {
-  return amount - amount / (1 + VAT_RATE);
-}
