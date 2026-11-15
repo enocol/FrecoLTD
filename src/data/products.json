@@ -10,7 +10,7 @@
     "rating": 4.8,
     "sku": "FRC-ENG-2TDI",
     "featured": true,
-      "images": [
+    "images": [
       "/images/cam1.jpeg",
       "/images/cam2.jpeg",
       "/images/cam3.jpeg",
@@ -32,7 +32,7 @@
     "name": "CAN AM OUTLANDER 650 06-09 ENGINE MOTOR REBUILT - 6 MONTH WARRANTY",
     "category": "Engines",
     "brand": "OUTLANDER 650 06-09 powerplant",
-    "price": 1799.0,
+    "price": 1799,
     "oldPrice": null,
     "stock": 4,
     "rating": 4.6,
@@ -61,7 +61,7 @@
     "category": "Engines",
     "brand": "HONDA RINCON 650 03-05 powerplant",
     "price": 3899.5,
-    "oldPrice": 4250.0,
+    "oldPrice": 4250,
     "stock": 2,
     "rating": 4.9,
     "sku": "FRC-ENG-30V6",
@@ -115,7 +115,7 @@
     "name": "POLARIS SPORTSMAN 600 03-05 ENGINE MOTOR REBUILT - 6 MONTH WARRANTY",
     "category": "Engine Parts",
     "brand": "POLARIS SPORTSMAN 600 03-05 powerplant",
-    "price": 289.0,
+    "price": 289,
     "oldPrice": null,
     "stock": 22,
     "rating": 4.5,
@@ -152,7 +152,6 @@
       "/images/polaris_570_1.png",
       "/images/polaris_570_2.png"
     ],
-  
     "shortDescription": "POLARIS RANGER 570 16-18 REBUILT TRANSMISSION 1333469.",
     "description": "The Polaris Ranger 570 (2016–2018) Rebuilt Transmission – Part Number 1333469 is a replacement transmission designed for compatible Polaris Ranger 570 models.\n- Professionally rebuilt to restore smooth and reliable transmission performance.\n- Ideal for replacing a worn, damaged or faulty original transmission.\n- Manufactured to meet the fitment requirements of compatible Polaris Ranger models.\n- A cost-effective alternative to purchasing a brand-new transmission.\nPlease confirm vehicle compatibility, included components and warranty details before purchase.",
     "specs": {
@@ -173,11 +172,10 @@
     "rating": 4.6,
     "sku": "FRC-PRT-HGSET",
     "featured": false,
-      "images": [
-    "/images/polaris_gear1.png",
-    "/images/polaris_gear2.png"
-  ],
-  
+    "images": [
+      "/images/polaris_gear1.png",
+      "/images/polaris_gear2.png"
+    ],
     "shortDescription": "POLARIS RANGER 900 16 CREW REBUILT TRANSMISSION 1333464.",
     "description": "The Polaris Ranger 900 Crew (2016) Rebuilt Transmission – Part Number 1333464 is a replacement transmission designed for compatible Polaris Ranger 900 Crew models.\n- Professionally rebuilt to restore smooth and reliable transmission performance.\n- Ideal for replacing a worn, damaged or faulty original transmission.\n- Designed to meet the fitment requirements of compatible 2016 Polaris Ranger 900 Crew vehicles.\n- A cost-effective alternative to purchasing a brand-new transmission.\nPlease confirm vehicle compatibility, included components and warranty details before purchase.",
     "specs": {
@@ -201,7 +199,6 @@
     "images": [
       "/images/pumb1.png",
       "/images/pumb2.png"
-      
     ],
     "shortDescription": "Mercedes-Benz GL 500 oil pump assembly.",
     "description": "The Mercedes-Benz GL 500 Oil Pump Assembly is a replacement component designed for compatible Mercedes-Benz GL 500 models.\n- Professionally manufactured to restore proper oil circulation and engine lubrication.\n- Ideal for replacing a worn, damaged or faulty original oil pump assembly.\n- Designed to meet the fitment requirements of compatible Mercedes-Benz GL 500 vehicles.\n- A cost-effective alternative to purchasing a brand-new oil pump assembly.\nPlease confirm vehicle compatibility and included components before purchase.",
@@ -245,10 +242,10 @@
     "name": "19\" Alloy Wheel Set (4) — Diamond Cut",
     "category": "Alloy Wheels",
     "brand": "BBS",
-    "price": 1199.0,
+    "price": 1199,
     "oldPrice": null,
     "stock": 5,
-    "rating": 5.0,
+    "rating": 5,
     "sku": "FRC-WHL-19DC",
     "featured": true,
     "image": "/images/alloy_19.png",
@@ -339,8 +336,8 @@
     "name": "Heavy-Duty Clutch Kit with Release Bearing",
     "category": "Car Parts",
     "brand": "Toyota",
-    "price": 219.0,
-    "oldPrice": 259.0,
+    "price": 219,
+    "oldPrice": 259,
     "stock": 12,
     "rating": 4.7,
     "sku": "FRC-CAR-CLU",
@@ -360,13 +357,13 @@
     "name": "2021 LED Headlight Upgrade Pair",
     "category": "Car Parts",
     "brand": "Mercedes-Benz ML 450",
-    "price": 350.0,
+    "price": 350,
     "oldPrice": null,
     "stock": 33,
     "rating": 4.5,
     "sku": "FRC-CAR-LED",
     "featured": false,
-    "image": "/images/head_lights.png",   
+    "image": "/images/head_lights.png",
     "shortDescription": "Plug-and-play LED headlight conversion pair.",
     "description": "Upgrade to crisp, bright LED lighting with this plug-and-play pair. Up to 200% more light than standard halogen bulbs for safer night-time driving.",
     "specs": {
@@ -382,8 +379,8 @@
     "name": "Performance Exhaust System",
     "category": "Car Parts",
     "brand": "Milltek",
-    "price": 649.0,
-    "oldPrice": 729.0,
+    "price": 649,
+    "oldPrice": 729,
     "stock": 7,
     "rating": 4.9,
     "sku": "FRC-CAR-EXH",
@@ -402,36 +399,546 @@
       "Warranty": "Lifetime (corrosion)"
     }
   },
-
-{
-  "id": "car-006",
-  "name": "Range Rover Sport 2016 Petrol Automatic Gearbox",
-  "category": "Car Parts",
-  "brand": "Land Rover",
-  "price": 1299.00,
-  "oldPrice": 1499.00,
-  "stock": 1,
-  "rating": 0,
-  "sku": "FRC-CAR-GBX-006",
-  "featured": true,
-  "images": [
-    "/images/range_1.png",
-    "/images/range_2.png"
-  ],
-  "shortDescription": "Replacement automatic gearbox for compatible 2016 Range Rover Sport petrol models.",
-  "description": "Automatic transmission gearbox intended for compatible 2016 Range Rover Sport petrol vehicles. Ideal for replacing a faulty, damaged or worn transmission. Designed to restore smooth gear changes and dependable driving performance. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
-  "specs": {
-    "Manufacturer": "Land Rover",
-    "Vehicle": "Range Rover Sport",
-    "Model Year": "2016",
-    "Fuel Type": "Petrol",
-    "Transmission": "Automatic",
-    "Gearbox Type": "8-speed automatic (verify variant)",
-    "Condition": "Used - verify condition",
-    "OEM Part Number": "To be confirmed",
-    "Compatibility": "Subject to VIN and gearbox code verification",
-    "Warranty": "To be confirmed"
+  {
+    "id": "car-006",
+    "name": "Range Rover Sport 2016 Petrol Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Land Rover",
+    "price": 1299,
+    "oldPrice": 1499,
+    "stock": 1,
+    "rating": 0,
+    "sku": "FRC-CAR-GBX-006",
+    "featured": true,
+    "images": [
+      "/images/range_1.png",
+      "/images/range_2.png"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2016 Range Rover Sport petrol models.",
+    "description": "Automatic transmission gearbox intended for compatible 2016 Range Rover Sport petrol vehicles. Ideal for replacing a faulty, damaged or worn transmission. Designed to restore smooth gear changes and dependable driving performance. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Land Rover",
+      "Vehicle": "Range Rover Sport",
+      "Model Year": "2016",
+      "Fuel Type": "Petrol",
+      "Transmission": "Automatic",
+      "Gearbox Type": "8-speed automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-004",
+    "name": "Toyota RAV4 2022 2.5L Petrol Hybrid Engine (Complete)",
+    "category": "Engines",
+    "brand": "Toyota",
+    "price": 2199,
+    "oldPrice": 2499,
+    "stock": 2,
+    "rating": 4.8,
+    "sku": "FRC-ENG-004",
+    "featured": true,
+    "images": [
+        "/images/toyota_rav4_hybrid_engine_1.webp",
+        "/images/toyota_rav4_hybrid_engine_2.webp",
+        "/images/toyota_rav4_hybrid_engine_3.webp",
+        "/images/toyota_rav4_hybrid_engine_4.webp"
+      ],
+    "shortDescription": "Replacement 2.5L petrol hybrid engine for compatible 2022 RAV4 models.",
+    "description": "Complete 2022 Toyota RAV4 2.5L petrol hybrid engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "RAV4",
+      "Model Year": "2022",
+      "Fuel Type": "Petrol Hybrid",
+      "Displacement": "2.5L",
+      "Cylinders": "4 inline",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-005",
+    "name": "Toyota RAV4 2023 2.0L Petrol Engine (Complete)",
+    "category": "Engines",
+    "brand": "Toyota",
+    "price": 1999,
+    "oldPrice": null,
+    "stock": 3,
+    "rating": 4.6,
+    "sku": "FRC-ENG-005",
+    "featured": false,
+    "images": [
+      "/images/eng-005-1.svg",
+      "/images/eng-005-2.svg",
+      "/images/eng-005-3.svg",
+      "/images/eng-005-4.svg"
+    ],
+    "shortDescription": "Replacement 2.0L petrol engine for compatible 2023 RAV4 models.",
+    "description": "Complete 2023 Toyota RAV4 2.0L petrol engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "RAV4",
+      "Model Year": "2023",
+      "Fuel Type": "Petrol",
+      "Displacement": "2.0L",
+      "Cylinders": "4 inline",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-007",
+    "name": "Toyota RAV4 2022 Petrol Hybrid Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Toyota",
+    "price": 1499,
+    "oldPrice": 1699,
+    "stock": 2,
+    "rating": 4.7,
+    "sku": "FRC-CAR-GBX-007",
+    "featured": false,
+    "images": [
+      "/images/car-007-1.svg",
+      "/images/car-007-2.svg",
+      "/images/car-007-3.svg",
+      "/images/car-007-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2022 RAV4 models.",
+    "description": "Automatic transmission gearbox intended for compatible 2022 Toyota RAV4 vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "RAV4",
+      "Model Year": "2022",
+      "Fuel Type": "Petrol Hybrid",
+      "Transmission": "Automatic",
+      "Gearbox Type": "e-CVT automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-008",
+    "name": "Toyota RAV4 2023 Petrol Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Toyota",
+    "price": 1399,
+    "oldPrice": null,
+    "stock": 2,
+    "rating": 0,
+    "sku": "FRC-CAR-GBX-008",
+    "featured": false,
+    "images": [
+      "/images/car-008-1.svg",
+      "/images/car-008-2.svg",
+      "/images/car-008-3.svg",
+      "/images/car-008-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2023 RAV4 models.",
+    "description": "Automatic transmission gearbox intended for compatible 2023 Toyota RAV4 vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "RAV4",
+      "Model Year": "2023",
+      "Fuel Type": "Petrol",
+      "Transmission": "Automatic",
+      "Gearbox Type": "8-speed automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-006",
+    "name": "Mercedes-Benz ML 320 2021 3.0L V6 Diesel Engine (Complete)",
+    "category": "Engines",
+    "brand": "Mercedes-Benz",
+    "price": 2899,
+    "oldPrice": 3199,
+    "stock": 1,
+    "rating": 4.9,
+    "sku": "FRC-ENG-006",
+    "featured": true,
+    "images": [
+      "/images/eng-006-1.svg",
+      "/images/eng-006-2.svg",
+      "/images/eng-006-3.svg",
+      "/images/eng-006-4.svg"
+    ],
+    "shortDescription": "Replacement 3.0L V6 diesel engine for compatible 2021 ML 320 models.",
+    "description": "Complete 2021 Mercedes-Benz ML 320 3.0L V6 diesel engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "ML 320",
+      "Model Year": "2021",
+      "Fuel Type": "Diesel",
+      "Displacement": "3.0L V6",
+      "Cylinders": "6 (V6)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-007",
+    "name": "Mercedes-Benz ML 320 2022 3.5L V6 Petrol Engine (Complete)",
+    "category": "Engines",
+    "brand": "Mercedes-Benz",
+    "price": 3099,
+    "oldPrice": null,
+    "stock": 1,
+    "rating": 4.7,
+    "sku": "FRC-ENG-007",
+    "featured": false,
+    "images": [
+      "/images/eng-007-1.svg",
+      "/images/eng-007-2.svg",
+      "/images/eng-007-3.svg",
+      "/images/eng-007-4.svg"
+    ],
+    "shortDescription": "Replacement 3.5L V6 petrol engine for compatible 2022 ML 320 models.",
+    "description": "Complete 2022 Mercedes-Benz ML 320 3.5L V6 petrol engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "ML 320",
+      "Model Year": "2022",
+      "Fuel Type": "Petrol",
+      "Displacement": "3.5L V6",
+      "Cylinders": "6 (V6)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-009",
+    "name": "Mercedes-Benz ML 320 2021 Diesel Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Mercedes-Benz",
+    "price": 1599,
+    "oldPrice": 1799,
+    "stock": 2,
+    "rating": 4.5,
+    "sku": "FRC-CAR-GBX-009",
+    "featured": true,
+    "images": [
+      "/images/car-009-1.svg",
+      "/images/car-009-2.svg",
+      "/images/car-009-3.svg",
+      "/images/car-009-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2021 ML 320 models.",
+    "description": "Automatic transmission gearbox intended for compatible 2021 Mercedes-Benz ML 320 vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "ML 320",
+      "Model Year": "2021",
+      "Fuel Type": "Diesel",
+      "Transmission": "Automatic",
+      "Gearbox Type": "7G-Tronic automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-010",
+    "name": "Mercedes-Benz ML 320 2022 Petrol Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Mercedes-Benz",
+    "price": 1799,
+    "oldPrice": null,
+    "stock": 1,
+    "rating": 0,
+    "sku": "FRC-CAR-GBX-010",
+    "featured": false,
+    "images": [
+      "/images/car-010-1.svg",
+      "/images/car-010-2.svg",
+      "/images/car-010-3.svg",
+      "/images/car-010-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2022 ML 320 models.",
+    "description": "Automatic transmission gearbox intended for compatible 2022 Mercedes-Benz ML 320 vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "ML 320",
+      "Model Year": "2022",
+      "Fuel Type": "Petrol",
+      "Transmission": "Automatic",
+      "Gearbox Type": "9G-Tronic automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-008",
+    "name": "Mercedes-Benz C200 2016 2.0L Petrol Engine (Complete)",
+    "category": "Engines",
+    "brand": "Mercedes-Benz",
+    "price": 1899,
+    "oldPrice": 2099,
+    "stock": 2,
+    "rating": 4.6,
+    "sku": "FRC-ENG-008",
+    "featured": false,
+    "images": [
+      "/images/eng-008-1.svg",
+      "/images/eng-008-2.svg",
+      "/images/eng-008-3.svg",
+      "/images/eng-008-4.svg"
+    ],
+    "shortDescription": "Replacement 2.0L petrol engine for compatible 2016 C200 models.",
+    "description": "Complete 2016 Mercedes-Benz C200 2.0L petrol engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "C200",
+      "Model Year": "2016",
+      "Fuel Type": "Petrol",
+      "Displacement": "2.0L",
+      "Cylinders": "4 inline",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-009",
+    "name": "Mercedes-Benz C200 2018 1.5L Mild-Hybrid Petrol Engine (Complete)",
+    "category": "Engines",
+    "brand": "Mercedes-Benz",
+    "price": 2099,
+    "oldPrice": null,
+    "stock": 2,
+    "rating": 4.4,
+    "sku": "FRC-ENG-009",
+    "featured": false,
+    "images": [
+      "/images/eng-009-1.svg",
+      "/images/eng-009-2.svg",
+      "/images/eng-009-3.svg",
+      "/images/eng-009-4.svg"
+    ],
+    "shortDescription": "Replacement 1.5L mild-hybrid petrol engine for compatible 2018 C200 models.",
+    "description": "Complete 2018 Mercedes-Benz C200 1.5L mild-hybrid petrol engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "C200",
+      "Model Year": "2018",
+      "Fuel Type": "Mild-Hybrid Petrol",
+      "Displacement": "1.5L",
+      "Cylinders": "4 inline",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-011",
+    "name": "Mercedes-Benz C200 2016 Petrol Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Mercedes-Benz",
+    "price": 1299,
+    "oldPrice": 1499,
+    "stock": 3,
+    "rating": 4.7,
+    "sku": "FRC-CAR-GBX-011",
+    "featured": false,
+    "images": [
+      "/images/car-011-1.svg",
+      "/images/car-011-2.svg",
+      "/images/car-011-3.svg",
+      "/images/car-011-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2016 C200 models.",
+    "description": "Automatic transmission gearbox intended for compatible 2016 Mercedes-Benz C200 vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "C200",
+      "Model Year": "2016",
+      "Fuel Type": "Petrol",
+      "Transmission": "Automatic",
+      "Gearbox Type": "7G-Tronic automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-012",
+    "name": "Mercedes-Benz C200 2018 Mild-Hybrid Petrol Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Mercedes-Benz",
+    "price": 1499,
+    "oldPrice": null,
+    "stock": 2,
+    "rating": 0,
+    "sku": "FRC-CAR-GBX-012",
+    "featured": false,
+    "images": [
+      "/images/car-012-1.svg",
+      "/images/car-012-2.svg",
+      "/images/car-012-3.svg",
+      "/images/car-012-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2018 C200 models.",
+    "description": "Automatic transmission gearbox intended for compatible 2018 Mercedes-Benz C200 vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Mercedes-Benz",
+      "Vehicle": "C200",
+      "Model Year": "2018",
+      "Fuel Type": "Mild-Hybrid Petrol",
+      "Transmission": "Automatic",
+      "Gearbox Type": "9G-Tronic automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-010",
+    "name": "Toyota Avensis 2010 2.0L D-4D Diesel Engine (Complete)",
+    "category": "Engines",
+    "brand": "Toyota",
+    "price": 1299,
+    "oldPrice": 1499,
+    "stock": 2,
+    "rating": 4.5,
+    "sku": "FRC-ENG-010",
+    "featured": false,
+    "images": [
+      "/images/eng-010-1.svg",
+      "/images/eng-010-2.svg",
+      "/images/eng-010-3.svg",
+      "/images/eng-010-4.svg"
+    ],
+    "shortDescription": "Replacement 2.0L D-4D diesel engine for compatible 2010 Avensis models.",
+    "description": "Complete 2010 Toyota Avensis 2.0L D-4D diesel engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "Avensis",
+      "Model Year": "2010",
+      "Fuel Type": "Diesel",
+      "Displacement": "2.0L D-4D",
+      "Cylinders": "4 inline",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "eng-011",
+    "name": "Toyota Avensis 2012 1.8L Petrol Engine (Complete)",
+    "category": "Engines",
+    "brand": "Toyota",
+    "price": 1099,
+    "oldPrice": null,
+    "stock": 3,
+    "rating": 4.3,
+    "sku": "FRC-ENG-011",
+    "featured": false,
+    "images": [
+      "/images/eng-011-1.svg",
+      "/images/eng-011-2.svg",
+      "/images/eng-011-3.svg",
+      "/images/eng-011-4.svg"
+    ],
+    "shortDescription": "Replacement 1.8L petrol engine for compatible 2012 Avensis models.",
+    "description": "Complete 2012 Toyota Avensis 1.8L petrol engine, suitable for compatible models. Ideal for replacing a faulty, damaged or worn unit and restoring reliable performance. Please confirm compatibility using the vehicle VIN, engine code and part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "Avensis",
+      "Model Year": "2012",
+      "Fuel Type": "Petrol",
+      "Displacement": "1.8L",
+      "Cylinders": "4 inline",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and engine code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-013",
+    "name": "Toyota Avensis 2010 Diesel Manual Gearbox",
+    "category": "Car Parts",
+    "brand": "Toyota",
+    "price": 699,
+    "oldPrice": 849,
+    "stock": 3,
+    "rating": 4.6,
+    "sku": "FRC-CAR-GBX-013",
+    "featured": true,
+    "images": [
+      "/images/car-013-1.svg",
+      "/images/car-013-2.svg",
+      "/images/car-013-3.svg",
+      "/images/car-013-4.svg"
+    ],
+    "shortDescription": "Replacement manual gearbox for compatible 2010 Avensis models.",
+    "description": "Manual transmission gearbox intended for compatible 2010 Toyota Avensis vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "Avensis",
+      "Model Year": "2010",
+      "Fuel Type": "Diesel",
+      "Transmission": "Manual",
+      "Gearbox Type": "6-speed manual (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
+  },
+  {
+    "id": "car-014",
+    "name": "Toyota Avensis 2012 Petrol Automatic Gearbox",
+    "category": "Car Parts",
+    "brand": "Toyota",
+    "price": 999,
+    "oldPrice": null,
+    "stock": 2,
+    "rating": 0,
+    "sku": "FRC-CAR-GBX-014",
+    "featured": false,
+    "images": [
+      "/images/car-014-1.svg",
+      "/images/car-014-2.svg",
+      "/images/car-014-3.svg",
+      "/images/car-014-4.svg"
+    ],
+    "shortDescription": "Replacement automatic gearbox for compatible 2012 Avensis models.",
+    "description": "Automatic transmission gearbox intended for compatible 2012 Toyota Avensis vehicles. Ideal for replacing a faulty, damaged or worn transmission and restoring smooth, dependable gear changes. Please confirm compatibility using the vehicle VIN, engine specification and gearbox part number before purchasing.",
+    "specs": {
+      "Manufacturer": "Toyota",
+      "Vehicle": "Avensis",
+      "Model Year": "2012",
+      "Fuel Type": "Petrol",
+      "Transmission": "Automatic",
+      "Gearbox Type": "Automatic (verify variant)",
+      "Condition": "Used - verify condition",
+      "OEM Part Number": "To be confirmed",
+      "Compatibility": "Subject to VIN and gearbox code verification",
+      "Warranty": "To be confirmed"
+    }
   }
-}
-
 ]

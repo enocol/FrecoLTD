@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Toyota Avensis 2010 · Engine (complete), Close-up">
+
+  <defs>
+    <radialGradient id="bgeng0104" cx="42%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#32404f"/>
+      <stop offset="55%" stop-color="#1b232d"/>
+      <stop offset="100%" stop-color="#0a0e13"/>
+    </radialGradient>
+    <linearGradient id="mleng0104" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef2f6"/>
+      <stop offset="45%" stop-color="#b8c0ca"/>
+      <stop offset="100%" stop-color="#5c6572"/>
+    </linearGradient>
+    <linearGradient id="mdeng0104" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9aa2ad"/>
+      <stop offset="100%" stop-color="#363d47"/>
+    </linearGradient>
+    <linearGradient id="steng0104" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dde2e8"/>
+      <stop offset="100%" stop-color="#767d88"/>
+    </linearGradient>
+    <radialGradient id="vigeng0104" cx="50%" cy="46%" r="72%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+    <radialGradient id="gloweng0104" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3a4b5e" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#3a4b5e" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="sheng0104" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+    <linearGradient id="rfeng0104" gradientUnits="userSpaceOnUse" x1="0" y1="432" x2="0" y2="602">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="rmeng0104">
+      <rect x="0" y="432" width="800" height="180" fill="url(#rfeng0104)"/>
+    </mask>
+  </defs>
+  <rect width="800" height="600" fill="url(#bgeng0104)"/>
+  <ellipse cx="400" cy="436" rx="240" ry="44" fill="url(#gloweng0104)"/>
+  <g mask="url(#rmeng0104)" transform="translate(0 864) scale(1 -1)"><g transform="translate(400 310) scale(1.55) translate(-356 -300)">
+  <g stroke="#10151b" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M338 392 H470 L456 432 H352 Z" fill="url(#mdeng0104)"/>
+    <path d="M322 300 H486 L478 394 H330 Z" fill="url(#mleng0104)"/>
+    <g stroke="#6b7482" stroke-width="3" opacity="0.5">
+      <line x1="360" y1="310" x2="356" y2="388"/>
+      <line x1="404" y1="310" x2="404" y2="388"/>
+      <line x1="448" y1="310" x2="452" y2="388"/>
+    </g>
+    <path d="M334 250 H474 L470 300 H338 Z" fill="url(#mleng0104)"/>
+    <g stroke="#7b828d" stroke-width="5" stroke-linecap="round">
+      <line x1="350" y1="262" x2="458" y2="262"/>
+      <line x1="350" y1="275" x2="458" y2="275"/>
+      <line x1="350" y1="288" x2="458" y2="288"/>
+    </g>
+    <g fill="#222932" stroke="none">
+      <circle cx="346" cy="256" r="4.5"/><circle cx="462" cy="256" r="4.5"/>
+      <circle cx="346" cy="294" r="4.5"/><circle cx="462" cy="294" r="4.5"/>
+    </g>
+    <g fill="none" stroke="url(#steng0104)" stroke-width="15" stroke-linecap="round">
+      <path d="M474 266 q62 6 58 56"/>
+      <path d="M474 284 q76 10 72 60"/>
+    </g>
+    <rect x="520" y="300" width="26" height="74" rx="10" fill="url(#mdeng0104)"/>
+    <circle cx="312" cy="356" r="30" fill="url(#steng0104)"/>
+    <circle cx="312" cy="356" r="9" fill="#20262e"/>
+    <circle cx="300" cy="300" r="16" fill="url(#steng0104)"/>
+    <path d="M300 258 q-28 -4 -32 26" fill="none" stroke="url(#mdeng0104)" stroke-width="14" stroke-linecap="round"/>
+    <path d="M336 252 H470" stroke="#ffffff" stroke-width="2" opacity="0.35"/>
+  </g></g></g>
+  <ellipse cx="400" cy="430" rx="168" ry="24" fill="#000" opacity="0.5" filter="url(#sheng0104)"/>
+  <g transform="translate(400 310) scale(1.55) translate(-356 -300)">
+  <g stroke="#10151b" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M338 392 H470 L456 432 H352 Z" fill="url(#mdeng0104)"/>
+    <path d="M322 300 H486 L478 394 H330 Z" fill="url(#mleng0104)"/>
+    <g stroke="#6b7482" stroke-width="3" opacity="0.5">
+      <line x1="360" y1="310" x2="356" y2="388"/>
+      <line x1="404" y1="310" x2="404" y2="388"/>
+      <line x1="448" y1="310" x2="452" y2="388"/>
+    </g>
+    <path d="M334 250 H474 L470 300 H338 Z" fill="url(#mleng0104)"/>
+    <g stroke="#7b828d" stroke-width="5" stroke-linecap="round">
+      <line x1="350" y1="262" x2="458" y2="262"/>
+      <line x1="350" y1="275" x2="458" y2="275"/>
+      <line x1="350" y1="288" x2="458" y2="288"/>
+    </g>
+    <g fill="#222932" stroke="none">
+      <circle cx="346" cy="256" r="4.5"/><circle cx="462" cy="256" r="4.5"/>
+      <circle cx="346" cy="294" r="4.5"/><circle cx="462" cy="294" r="4.5"/>
+    </g>
+    <g fill="none" stroke="url(#steng0104)" stroke-width="15" stroke-linecap="round">
+      <path d="M474 266 q62 6 58 56"/>
+      <path d="M474 284 q76 10 72 60"/>
+    </g>
+    <rect x="520" y="300" width="26" height="74" rx="10" fill="url(#mdeng0104)"/>
+    <circle cx="312" cy="356" r="30" fill="url(#steng0104)"/>
+    <circle cx="312" cy="356" r="9" fill="#20262e"/>
+    <circle cx="300" cy="300" r="16" fill="url(#steng0104)"/>
+    <path d="M300 258 q-28 -4 -32 26" fill="none" stroke="url(#mdeng0104)" stroke-width="14" stroke-linecap="round"/>
+    <path d="M336 252 H470" stroke="#ffffff" stroke-width="2" opacity="0.35"/>
+  </g></g>
+  <rect width="800" height="600" fill="url(#vigeng0104)"/>
+  <text x="40" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#f2f4f7">Toyota Avensis</text>
+  <text x="40" y="102" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#aab2bd">2010 · Engine (complete)</text>
+  <rect x="636" y="40" width="124" height="34" rx="17" fill="rgba(255,255,255,0.12)"/>
+  <text x="698" y="63" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#eef1f5">Close-up</text>
+  <text x="40" y="565" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#7d8694">Freco Limited · sample image — replace with a real photo</text>
+</svg>

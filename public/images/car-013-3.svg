@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Toyota Avensis 2010 · Gearbox, Side view">
+
+  <defs>
+    <radialGradient id="bgcar0133" cx="44%" cy="36%" r="85%">
+      <stop offset="0%" stop-color="#32404f"/>
+      <stop offset="55%" stop-color="#1b232d"/>
+      <stop offset="100%" stop-color="#0a0e13"/>
+    </radialGradient>
+    <linearGradient id="mlcar0133" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef2f6"/>
+      <stop offset="45%" stop-color="#b8c0ca"/>
+      <stop offset="100%" stop-color="#5c6572"/>
+    </linearGradient>
+    <linearGradient id="mdcar0133" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9aa2ad"/>
+      <stop offset="100%" stop-color="#363d47"/>
+    </linearGradient>
+    <linearGradient id="stcar0133" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dde2e8"/>
+      <stop offset="100%" stop-color="#767d88"/>
+    </linearGradient>
+    <radialGradient id="vigcar0133" cx="50%" cy="46%" r="72%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+    <radialGradient id="glowcar0133" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3a4b5e" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#3a4b5e" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shcar0133" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+    <linearGradient id="rfcar0133" gradientUnits="userSpaceOnUse" x1="0" y1="432" x2="0" y2="602">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="rmcar0133">
+      <rect x="0" y="432" width="800" height="180" fill="url(#rfcar0133)"/>
+    </mask>
+  </defs>
+  <rect width="800" height="600" fill="url(#bgcar0133)"/>
+  <ellipse cx="400" cy="436" rx="240" ry="44" fill="url(#glowcar0133)"/>
+  <g mask="url(#rmcar0133)" transform="translate(0 864) scale(1 -1)"><g transform="rotate(4 400 310)">
+  <g stroke="#10151b" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M352 266 H476 Q518 310 476 372 H352 Z" fill="url(#mlcar0133)"/>
+    <g stroke="#6b7482" stroke-width="3" opacity="0.5">
+      <line x1="384" y1="274" x2="384" y2="366"/>
+      <line x1="414" y1="272" x2="418" y2="366"/>
+      <line x1="444" y1="274" x2="452" y2="362"/>
+    </g>
+    <path d="M360 372 H470 L458 410 H372 Z" fill="url(#mdcar0133)"/>
+    <circle cx="330" cy="320" r="84" fill="url(#mlcar0133)"/>
+    <circle cx="330" cy="320" r="60" fill="url(#mdcar0133)"/>
+    <g fill="#222932" stroke="none"><circle cx="400.0" cy="320.0" r="4.5"/><circle cx="390.6" cy="355.0" r="4.5"/><circle cx="365.0" cy="380.6" r="4.5"/><circle cx="330.0" cy="390.0" r="4.5"/><circle cx="295.0" cy="380.6" r="4.5"/><circle cx="269.4" cy="355.0" r="4.5"/><circle cx="260.0" cy="320.0" r="4.5"/><circle cx="269.4" cy="285.0" r="4.5"/><circle cx="295.0" cy="259.4" r="4.5"/><circle cx="330.0" cy="250.0" r="4.5"/><circle cx="365.0" cy="259.4" r="4.5"/><circle cx="390.6" cy="285.0" r="4.5"/></g>
+    <circle cx="330" cy="320" r="21" fill="url(#stcar0133)"/>
+    <circle cx="330" cy="320" r="7" fill="#20262e"/>
+    <path d="M476 302 H520 L540 312 L520 332 H476 Z" fill="url(#mdcar0133)"/>
+    <rect x="538" y="304" width="34" height="24" rx="4" fill="url(#stcar0133)"/>
+    <g stroke="none"><line x1="540" y1="306" x2="540" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="546" y1="306" x2="546" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="552" y1="306" x2="552" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="558" y1="306" x2="558" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="564" y1="306" x2="564" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="570" y1="306" x2="570" y2="326" stroke="#2a2f37" stroke-width="2"/></g>
+    <rect x="402" y="236" width="42" height="24" rx="5" fill="#2b6cb0" stroke="#17324d"/>
+    <path d="M352 310 l-18 -8 -2 20 20 2 Z" fill="url(#mdcar0133)"/>
+    <path d="M356 268 H472" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  </g></g></g>
+  <ellipse cx="400" cy="430" rx="168" ry="24" fill="#000" opacity="0.5" filter="url(#shcar0133)"/>
+  <g transform="rotate(4 400 310)">
+  <g stroke="#10151b" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M352 266 H476 Q518 310 476 372 H352 Z" fill="url(#mlcar0133)"/>
+    <g stroke="#6b7482" stroke-width="3" opacity="0.5">
+      <line x1="384" y1="274" x2="384" y2="366"/>
+      <line x1="414" y1="272" x2="418" y2="366"/>
+      <line x1="444" y1="274" x2="452" y2="362"/>
+    </g>
+    <path d="M360 372 H470 L458 410 H372 Z" fill="url(#mdcar0133)"/>
+    <circle cx="330" cy="320" r="84" fill="url(#mlcar0133)"/>
+    <circle cx="330" cy="320" r="60" fill="url(#mdcar0133)"/>
+    <g fill="#222932" stroke="none"><circle cx="400.0" cy="320.0" r="4.5"/><circle cx="390.6" cy="355.0" r="4.5"/><circle cx="365.0" cy="380.6" r="4.5"/><circle cx="330.0" cy="390.0" r="4.5"/><circle cx="295.0" cy="380.6" r="4.5"/><circle cx="269.4" cy="355.0" r="4.5"/><circle cx="260.0" cy="320.0" r="4.5"/><circle cx="269.4" cy="285.0" r="4.5"/><circle cx="295.0" cy="259.4" r="4.5"/><circle cx="330.0" cy="250.0" r="4.5"/><circle cx="365.0" cy="259.4" r="4.5"/><circle cx="390.6" cy="285.0" r="4.5"/></g>
+    <circle cx="330" cy="320" r="21" fill="url(#stcar0133)"/>
+    <circle cx="330" cy="320" r="7" fill="#20262e"/>
+    <path d="M476 302 H520 L540 312 L520 332 H476 Z" fill="url(#mdcar0133)"/>
+    <rect x="538" y="304" width="34" height="24" rx="4" fill="url(#stcar0133)"/>
+    <g stroke="none"><line x1="540" y1="306" x2="540" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="546" y1="306" x2="546" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="552" y1="306" x2="552" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="558" y1="306" x2="558" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="564" y1="306" x2="564" y2="326" stroke="#2a2f37" stroke-width="2"/><line x1="570" y1="306" x2="570" y2="326" stroke="#2a2f37" stroke-width="2"/></g>
+    <rect x="402" y="236" width="42" height="24" rx="5" fill="#2b6cb0" stroke="#17324d"/>
+    <path d="M352 310 l-18 -8 -2 20 20 2 Z" fill="url(#mdcar0133)"/>
+    <path d="M356 268 H472" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  </g></g>
+  <rect width="800" height="600" fill="url(#vigcar0133)"/>
+  <text x="40" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#f2f4f7">Toyota Avensis</text>
+  <text x="40" y="102" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#aab2bd">2010 · Gearbox</text>
+  <rect x="636" y="40" width="124" height="34" rx="17" fill="rgba(255,255,255,0.12)"/>
+  <text x="698" y="63" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#eef1f5">Side view</text>
+  <text x="40" y="565" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#7d8694">Freco Limited · sample image — replace with a real photo</text>
+</svg>
