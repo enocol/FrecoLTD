@@ -847,5 +847,38 @@
       "Compatibility": "Subject to VIN and gearbox code verification",
       "Warranty": "To be confirmed"
     }
+  },
+
+{
+  "id": "tool-001",
+  "name": "12-Piece Metric Combination Spanner Set 6–19mm",
+  "category": "Tools",
+  "brand": "Unbranded",
+  "price": 6,
+  "oldPrice": null,
+  "stock": 10,
+  "rating": 0,
+  "sku": "FRC-TOOL-SPN-001",
+  "featured": false,
+  "images": [
+    "/images/tool-001-1.webp"
+  ],
+  "shortDescription": "12-piece metric combination spanner set with open-ended and ring-ended heads, ideal for automotive repairs and workshop use.",
+  "description": "Premium-quality 12-piece metric combination spanner set, ideal for automotive repairs, mechanical maintenance and everyday workshop tasks. Each spanner features an open-ended head and a ring-ended head for versatile fastening and loosening applications. Designed for strength, durability and reliable performance, with a polished chrome finish for corrosion resistance. Supplied in a convenient storage roll for easy organisation and transportation. Suitable for professional mechanics, garages, DIY enthusiasts and home workshops.",
+  "specs": {
+    "Product Type": "Combination Spanner Set",
+    "Manufacturer": "Unbranded ",
+    "Number of Pieces": "12",
+    "Spanner Sizes": "6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19mm",
+    "Material": "Chrome Vanadium Steel - To be confirmed",
+    "Finish": "Polished Chrome",
+    "Measurement System": "Metric",
+    "Head Type": "Open End and Ring End",
+    "Storage": "Fabric Tool Roll",
+    "Condition": "New",
+    "Suitable For": "Automotive Repairs, Mechanical Maintenance, Garage and Workshop Use",
+    "Warranty": "12 Months - Subject to Freco Limited Warranty Policy"
   }
+}
+
 ]
